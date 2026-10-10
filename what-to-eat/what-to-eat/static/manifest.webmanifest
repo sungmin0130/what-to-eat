@@ -1,0 +1,12 @@
+{
+  "name": "오늘 뭐 먹지? 메뉴 돌림판",
+  "short_name": "뭐 먹지?",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f1",
+  "theme_color": "#f7f5f1",
+  "icons": [
+    { "src": "/static/icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
